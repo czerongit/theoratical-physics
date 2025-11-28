@@ -4,6 +4,8 @@ About
 -----
 Physics101 is a repository to documenting theorems, theories, proofs, and my other findings in theoretical physics. Its purpose is to collect precise statements, rigorous proofs, intuition notes, and references in an organized, version-controlled workspace.
 
+The contents of this repository is independent research and are not supervised, funded, endorsed, or otherwise affiliated with and public or private institution.
+
 What you'll find here
 --------
 - Theorems and proofs (formal or semi-formal), written as LaTeX or Markdown files.
