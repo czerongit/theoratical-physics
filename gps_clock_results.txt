@@ -1,0 +1,53 @@
+GPS Clock Analysis Results
+================================================================================
+
+THEORETICAL FRAMEWORK
+----------------------------------------
+From Embedding Evolution Theorem:
+  c ~ K_min^(1/2)
+  Δc/c = (1/2) × ΔK_min/K_min
+
+Local curvature couples to gravity:
+  ΔK_min/K_min ≈ Δφ/c²
+
+Therefore:
+  Δc/c = (1/2) × Δφ/c² (geometric effect)
+  Δf/f = Δφ/c² (standard GR redshift)
+
+The geometric effect is ~50% of GR, not a tiny correction!
+
+CONSTANTS
+----------------------------------------
+K_min = H_0/c = 7.272e-27 m^-1
+H_0 = 2.180e-18 s^-1
+c = 2.998e+08 m/s
+
+RESULTS BY ALTITUDE
+----------------------------------------
+
+ISS (400 km)
+  GR redshift:      Δf/f = 4.112e-11
+  Geometric Δc/c:         = 2.056e-11
+  Total effect:           = 6.168e-11
+  Geometric/GR ratio:     = 50.0%
+
+GPS (20200 km)
+  GR redshift:      Δf/f = 5.292e-10
+  Geometric Δc/c:         = 2.646e-10
+  Total effect:           = 7.938e-10
+  Geometric/GR ratio:     = 50.0%
+
+GEO (35786 km)
+  GR redshift:      Δf/f = 5.909e-10
+  Geometric Δc/c:         = 2.954e-10
+  Total effect:           = 8.863e-10
+  Geometric/GR ratio:     = 50.0%
+
+DETECTION REQUIREMENTS
+----------------------------------------
+To detect geometric c-variation:
+  - Effect size: ~2.5×10^-10 at GPS altitude
+  - GPS clock precision: ~10^-13 (insufficient)
+  - Optical atomic clocks: ~10^-18 (sufficient by 10^8×)
+
+The geometric effect is detectable with current optical clocks!
