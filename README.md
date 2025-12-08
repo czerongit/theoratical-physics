@@ -13,6 +13,10 @@ What you'll find here
 - Figures, diagrams, and a bibliography of references used in proofs and discussions.
 - My interperpertaion of these mathmatical vehicles
 
+Acknowledgements
+--------
+- Intelligence enabled software was used during the literary writing, editing and language clarification of these published materials.
+
 Citation
 --------
 Each versioned release of this repository is archived on Zenodo and assigned a unique DOI. These releases constitute prior publication and establish priority for all ideas, theorems, proofs, and findings contained herein.
@@ -34,3 +38,4 @@ When citing, use the DOI for the specific version you referenced, i.e:
   url          = {https://doi.org/10.5281/zenodo.XXXXXXX}
 }
 ```
+
