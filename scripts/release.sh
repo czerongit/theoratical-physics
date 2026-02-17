@@ -14,14 +14,17 @@ fi
 # generate date string MMDDYYYY
 date_tag=$(date +%m%d%Y)
 
+time_tag=$(date +%H%M%S)
+
 # commit with date-only message
-git commit -m "$date_tag"
+git commit -m "$date_tag $time_tag"
+
 
 # push to remote
-git push
+git push -f
 
 # create release using gh cli
-gh release create "$date_tag" --title "$date_tag" --notes "release $date_tag"
+gh release create "$date_tag-$time_tag" --title "$date_tag-$time_tag" --notes "release $date_tag $time_tag"
 
-echo "created release $date_tag"
+echo "created release $date_tag $time_tag"
 

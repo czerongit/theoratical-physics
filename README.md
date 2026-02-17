@@ -1,8 +1,10 @@
-# On Physics [![DOI](https://zenodo.org/badge/1105760700.svg)](https://doi.org/10.5281/zenodo.17746213)
+
+# Current DOI: 
+# Previous DOI: On Physics [![DOI](https://zenodo.org/badge/1105760700.svg)](https://doi.org/10.5281/zenodo.17746213)
 
 About
 -----
-OnPhysics is a repository to documenting theorems, theories, proofs, and my other findings in theoretical physics. Its purpose is to collect precise statements, rigorous proofs, intuition notes, and references in an organized, version-controlled workspace.
+Theoratical Physics is a repository to documenting theorems, theories, proofs, and my other findings in theoretical physics. Its purpose is to collect precise statements, rigorous proofs, intuition notes, and references in an organized, version-controlled workspace.
 
 The contents of this repository is independent research. Materials disclosed are not supervised, funded, endorsed by, or otherwise affiliated with any public or private institution.
 
