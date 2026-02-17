@@ -24,7 +24,9 @@ git commit -m "$date_tag $time_tag"
 git push -f
 
 # create release using gh cli
-gh release create "$date_tag-$time_tag" --title "$date_tag-$time_tag" --notes "release $date_tag $time_tag"
+# create release using git tag
+git tag -a "$date_tag-$time_tag" -m "release $date_tag $time_tag"
+git push origin "$date_tag-$time_tag"
 
 echo "created release $date_tag $time_tag"
 
