@@ -1,6 +1,7 @@
 
-# Current DOI: 
-# Previous DOI: On Physics [![DOI](https://zenodo.org/badge/1105760700.svg)](https://doi.org/10.5281/zenodo.17746213)
+# Current DOI (2026 releases): Theoretical Physics [![DOI](https://zenodo.org/badge/1158154654.svg)](https://doi.org/10.5281/zenodo.18667021)
+
+# Previous DOI (2025 releases): On Physics [![DOI](https://zenodo.org/badge/1105760700.svg)](https://doi.org/10.5281/zenodo.17746213)
 
 About
 -----
@@ -36,8 +37,18 @@ When citing, use the DOI for the specific version you referenced, i.e:
   year         = {2025},
   version      = {v20251127},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.XXXXXXX},
-  url          = {https://doi.org/10.5281/zenodo.XXXXXXX}
+  doi          = {10.5281/zenodo.17746213},
+  url          = {https://doi.org/10.5281/zenodo.17746213}
+}
+
+@misc{
+  author       = {Sina Montazeri},
+  title        = {Theoretical Physics},
+  year         = {2026},
+  version      = {v20260216},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.18667021},
+  url          = {https://doi.org/10.5281/zenodo.18667021}
 }
 ```
 
