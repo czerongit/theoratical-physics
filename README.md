@@ -1,7 +1,7 @@
 
 # Current DOI (2026 releases): Theoretical Physics [![DOI](https://zenodo.org/badge/1158154654.svg)](https://doi.org/10.5281/zenodo.18667021)
 
-# Previous DOI (2025 releases): On Physics (https://doi.org/10.5281/zenodo.17746213)
+Previous DOI (2025 releases): On Physics (https://doi.org/10.5281/zenodo.17746213)
 
 About
 -----
