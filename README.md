@@ -23,10 +23,10 @@ theory.
 - [Aharonov--Bohm Signature of a Field Response](aharonov-bohm-signature-of-a-field-response.pdf)
   is the current top-level paper. Its individual Zenodo record is
   [10.5281/zenodo.21486077](https://doi.org/10.5281/zenodo.21486077).
-- [Gauge and Gravitational Responses of a Field](workdesk/gauge-gravitation-response-field.pdf)
+- [Gauge and Gravitational Responses of a Field](gauge-gravitation-response-field.pdf)
   is the principal structural manuscript underlying that paper. Its
   individual Zenodo record is
-  [10.5281/zenodo.21484477](https://doi.org/10.5281/zenodo.21484477).
+  [10.5281/zenodo.22839269](https://doi.org/10.5281/zenodo.22839269).
 - [`workdesk/`](workdesk/) is a historical research and learning archive. It
   preserves earlier drafts, exploratory calculations, superseded approaches,
   and unsuccessful lines of investigation. Its contents should not be read as
@@ -71,7 +71,7 @@ Repository archives:
 
 Individual paper archives:
 
-- [Gauge and Gravitational Responses of a Field](https://doi.org/10.5281/zenodo.21484477)
+- [Gauge and Gravitational Responses of a Field](https://doi.org/10.5281/zenodo.22839269)
 - [Aharonov--Bohm Signature of a Field Response](https://doi.org/10.5281/zenodo.21486077)
 
 I reserve all rights to formal publication of the material in this
