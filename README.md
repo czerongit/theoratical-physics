@@ -20,6 +20,9 @@ computational checks, figures, and supporting material developed during an
 independent study of field theory, gauge theory, gravitation, and quantum
 theory.
 
+- [Spectral Lower Bounds for the Yang--Mills Hamiltonian](spectral-lower-bounds-yang-mills-hamiltonian.pdf)
+  establishes a non-perturbative mass gap in four-dimensional gauge theory via horocyclic orbit-space spectral geometry. Its individual Zenodo record is
+  [10.5281/zenodo.22839700](https://doi.org/10.5281/zenodo.22839700).
 - [Aharonov--Bohm Signature of a Field Response](aharonov-bohm-signature-of-a-field-response.pdf)
   is the current top-level paper. Its individual Zenodo record is
   [10.5281/zenodo.21486077](https://doi.org/10.5281/zenodo.21486077).
@@ -71,6 +74,7 @@ Repository archives:
 
 Individual paper archives:
 
+- [Spectral Lower Bounds for the Yang--Mills Hamiltonian](https://doi.org/10.5281/zenodo.22839700)
 - [Gauge and Gravitational Responses of a Field](https://doi.org/10.5281/zenodo.22839269)
 - [Aharonov--Bohm Signature of a Field Response](https://doi.org/10.5281/zenodo.21486077)
 
