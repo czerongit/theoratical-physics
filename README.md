@@ -20,6 +20,9 @@ computational checks, figures, and supporting material developed during an
 independent study of field theory, gauge theory, gravitation, and quantum
 theory.
 
+- [Coulomb Distortion in Gallium Neutrino Capture](coulomb-distortion-in-gallium-neutrino-capture.pdf)
+  demonstrates that the 5-sigma Gallium Anomaly arises from finite-skin Coulomb distortion of the outgoing Dirac electron wave function, resolving the capture deficit without sterile neutrinos. Its individual Zenodo record is
+  [10.5281/zenodo.22968264](https://zenodo.org/records/22968264).
 - [Spectral Lower Bounds for the Yang--Mills Hamiltonian](spectral-lower-bounds-yang-mills-hamiltonian.pdf)
   establishes a non-perturbative mass gap in four-dimensional gauge theory via horocyclic orbit-space spectral geometry. Its individual Zenodo record is
   [10.5281/zenodo.22839700](https://doi.org/10.5281/zenodo.22839700).
@@ -74,6 +77,7 @@ Repository archives:
 
 Individual paper archives:
 
+- [Coulomb Distortion in Gallium Neutrino Capture](https://zenodo.org/records/22968264)
 - [Spectral Lower Bounds for the Yang--Mills Hamiltonian](https://doi.org/10.5281/zenodo.22839700)
 - [Gauge and Gravitational Responses of a Field](https://doi.org/10.5281/zenodo.22839269)
 - [Aharonov--Bohm Signature of a Field Response](https://doi.org/10.5281/zenodo.21486077)
