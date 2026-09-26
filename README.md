@@ -22,17 +22,17 @@ theory.
 
 - [Coulomb Distortion in Gallium Neutrino Capture](coulomb-distortion-in-gallium-neutrino-capture.pdf)
   demonstrates that the 5-sigma Gallium Anomaly arises from finite-skin Coulomb distortion of the outgoing Dirac electron wave function, resolving the capture deficit without sterile neutrinos. Its individual Zenodo record is
-  [10.5281/zenodo.22968264](https://zenodo.org/records/22968264).
+  [10.5281/zenodo.22970118](https://zenodo.org/records/22970118).
 - [Spectral Lower Bounds for the Yang--Mills Hamiltonian](spectral-lower-bounds-yang-mills-hamiltonian.pdf)
   establishes a non-perturbative mass gap in four-dimensional gauge theory via horocyclic orbit-space spectral geometry. Its individual Zenodo record is
-  [10.5281/zenodo.22839700](https://doi.org/10.5281/zenodo.22839700).
+  [10.5281/zenodo.22970099](https://zenodo.org/records/22970099).
 - [Aharonov--Bohm Signature of a Field Response](aharonov-bohm-signature-of-a-field-response.pdf)
   is the current top-level paper. Its individual Zenodo record is
   [10.5281/zenodo.21486077](https://doi.org/10.5281/zenodo.21486077).
 - [Gauge and Gravitational Responses of a Field](gauge-gravitation-response-field.pdf)
   is the principal structural manuscript underlying that paper. Its
   individual Zenodo record is
-  [10.5281/zenodo.22839269](https://doi.org/10.5281/zenodo.22839269).
+  [10.5281/zenodo.22970085](https://zenodo.org/records/22970085).
 - [`workdesk/`](workdesk/) is a historical research and learning archive. It
   preserves earlier drafts, exploratory calculations, superseded approaches,
   and unsuccessful lines of investigation. Its contents should not be read as
@@ -77,9 +77,9 @@ Repository archives:
 
 Individual paper archives:
 
-- [Coulomb Distortion in Gallium Neutrino Capture](https://zenodo.org/records/22968264)
-- [Spectral Lower Bounds for the Yang--Mills Hamiltonian](https://doi.org/10.5281/zenodo.22839700)
-- [Gauge and Gravitational Responses of a Field](https://doi.org/10.5281/zenodo.22839269)
+- [Coulomb Distortion in Gallium Neutrino Capture](https://zenodo.org/records/22970118)
+- [Spectral Lower Bounds for the Yang--Mills Hamiltonian](https://zenodo.org/records/22970099)
+- [Gauge and Gravitational Responses of a Field](https://zenodo.org/records/22970085)
 - [Aharonov--Bohm Signature of a Field Response](https://doi.org/10.5281/zenodo.21486077)
 
 I reserve all rights to formal publication of the material in this
